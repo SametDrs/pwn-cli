@@ -48,11 +48,5 @@ Değerlendirme: GÜVENLİ DEĞİL
 Bu proje yalnızca parola kontrolü yapar.
 HIBP e-posta arama API’si ücretli olduğu için email sorgulama eklenmemiştir.
 
-
-## 🌐 Note
-
-This project performs password checks only.
-HIBP’s email breach endpoint is paid, therefore email lookups are not included.
-
 ## 👤 Developer
 ### 🌐Samet Dursun: https://sametdursun.xyz
